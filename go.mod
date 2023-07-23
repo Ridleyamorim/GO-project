@@ -4,6 +4,8 @@ go 1.20
 
 require (
 	github.com/mattn/go-sqlite3 v1.14.17
+	github.com/rabbitmq/amqp091-go v1.8.1
+	github.com/streadway/amqp v1.1.0
 	github.com/stretchr/testify v1.8.4
 )
 
